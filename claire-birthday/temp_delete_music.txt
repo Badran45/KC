@@ -1,0 +1,4 @@
+Files to delete:
+- d:\Birthhhh\claire-birthday\public\music
+- d:\Birthhhh\claire-birthday\src\components\MusicPlayer.jsx
+- d:\Birthhhh\claire-birthday\src\components\MusicPlayerNew.jsx
